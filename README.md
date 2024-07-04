@@ -1,5 +1,5 @@
 I’m interested in environmental sustainability, environmental computer programming and data analysis.
-🌱 I’m currently learning, JAVA programming language principle, and soft skills, SQL and data analysis.
+🌱 I’m currently learning, JAVASCRIPT programming language principle, and soft skills, SQL and data analysis.
 💞️ I’m looking to collaborate on projects related to environmental data analysis and sustainability initiatives.
 📫 How to reach me: linkedin.com/in/mariaisabelguatame
 😄 Pronouns: ella
